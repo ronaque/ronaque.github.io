@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1527434420,
+	"version": 1527436987,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -29,7 +29,7 @@
 		"images/imusic-sheet1.png",
 		"images/isom-sheet0.png",
 		"images/isom-sheet1.png",
-		"images/ihome-sheet0.png",
+		"images/ipause-sheet0.png",
 		"images/iback-sheet0.png",
 		"images/ihomegame-sheet0.png",
 		"images/istrengh-sheet0.png",
