@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1527399902
+#1527401183
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -30,6 +30,7 @@ images/isom-sheet0.png
 images/isom-sheet1.png
 images/ihome-sheet0.png
 images/iback-sheet0.png
+images/ihomegame-sheet0.png
 images/istrengh-sheet0.png
 images/istrengh-sheet1.png
 images/ifloor-sheet0.png
