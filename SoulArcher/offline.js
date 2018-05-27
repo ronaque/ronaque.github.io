@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1527391641,
+	"version": 1527395506,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -74,6 +74,10 @@
 		"icon-114.png",
 		"icon-128.png",
 		"icon-256.png",
-		"loading-logo.png"
+		"loading-logo.png",
+		"medieval_pixel-webfont.ttf",
+		"medieval_pixel-webfont.woff",
+		"medieval_pixel-webfont.woff2",
+		"stylesheet.css"
 	]
 }
