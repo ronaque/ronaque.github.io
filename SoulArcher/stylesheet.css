@@ -4,8 +4,12 @@
 
 @font-face {
     font-family: 'medieval_pixelregular';
-    src: url('medieval_pixel-webfont.woff2') format('woff2'),
-         url('medieval_pixel-webfont.woff') format('woff');
+    src: url('medieval_pixel-webfont.eot');
+    src: url('medieval_pixel-webfont.eot?#iefix') format('embedded-opentype'),
+         url('medieval_pixel-webfont.woff2') format('woff2'),
+         url('medieval_pixel-webfont.woff') format('woff'),
+         url('medieval_pixel-webfont.ttf') format('truetype'),
+         url('medieval_pixel-webfont.svg#medieval_pixelregular') format('svg');
     font-weight: normal;
     font-style: normal;
 

@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1527398687,
+	"version": 1527399342,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -44,7 +44,6 @@
 		"images/iice-sheet0.png",
 		"images/ibackgroundmenu-sheet0.png",
 		"images/igameover-sheet0.png",
-		"images/igameover-sheet1.png",
 		"images/itesteparede-sheet0.png",
 		"images/isensor-sheet0.png",
 		"images/isensor2-sheet0.png",
@@ -75,13 +74,11 @@
 		"icon-128.png",
 		"icon-256.png",
 		"loading-logo.png",
+		"medieval_pixel-webfont.eot",
+		"medieval_pixel-webfont.svg",
 		"medieval_pixel-webfont.ttf",
 		"medieval_pixel-webfont.woff",
 		"medieval_pixel-webfont.woff2",
-		"stylesheet.css",
-		"generator_config.txt",
-		"medieval_pixel-demo.html",
-		"grid_12-825-55-15.css",
-		"specimen_stylesheet.css"
+		"stylesheet.css"
 	]
 }
