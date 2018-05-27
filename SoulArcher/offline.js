@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1527401183,
+	"version": 1527434420,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -52,6 +52,8 @@
 		"images/ibackgroundm-sheet0.png",
 		"images/ibackgroundcs-sheet0.png",
 		"images/sprite4-sheet0.png",
+		"images/ifreezet-sheet0.png",
+		"images/ilightnigt-sheet0.png",
 		"media/musicaprincipal.ogg",
 		"media/atirando a flecha.m4a",
 		"media/atirando a flecha.ogg",
