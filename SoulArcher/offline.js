@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1527395506,
+	"version": 1527396262,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -78,6 +78,10 @@
 		"medieval_pixel-webfont.ttf",
 		"medieval_pixel-webfont.woff",
 		"medieval_pixel-webfont.woff2",
-		"stylesheet.css"
+		"stylesheet.css",
+		"generator_config.txt",
+		"medieval_pixel-demo.html",
+		"grid_12-825-55-15.css",
+		"specimen_stylesheet.css"
 	]
 }
