@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1527383338,
+	"version": 1527441861,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -29,8 +29,9 @@
 		"images/imusic-sheet1.png",
 		"images/isom-sheet0.png",
 		"images/isom-sheet1.png",
-		"images/ihome-sheet0.png",
+		"images/ipause-sheet0.png",
 		"images/iback-sheet0.png",
+		"images/ihomegame-sheet0.png",
 		"images/istrengh-sheet0.png",
 		"images/istrengh-sheet1.png",
 		"images/ifloor-sheet0.png",
@@ -44,7 +45,6 @@
 		"images/iice-sheet0.png",
 		"images/ibackgroundmenu-sheet0.png",
 		"images/igameover-sheet0.png",
-		"images/igameover-sheet1.png",
 		"images/itesteparede-sheet0.png",
 		"images/isensor-sheet0.png",
 		"images/isensor2-sheet0.png",
@@ -52,6 +52,8 @@
 		"images/ibackgroundm-sheet0.png",
 		"images/ibackgroundcs-sheet0.png",
 		"images/sprite4-sheet0.png",
+		"images/ifreezet-sheet0.png",
+		"images/ilightnigt-sheet0.png",
 		"media/musicaprincipal.ogg",
 		"media/atirando a flecha.m4a",
 		"media/atirando a flecha.ogg",
@@ -74,6 +76,12 @@
 		"icon-114.png",
 		"icon-128.png",
 		"icon-256.png",
-		"loading-logo.png"
+		"loading-logo.png",
+		"medieval_pixel-webfont.eot",
+		"medieval_pixel-webfont.svg",
+		"medieval_pixel-webfont.ttf",
+		"medieval_pixel-webfont.woff",
+		"medieval_pixel-webfont.woff2",
+		"stylesheet.css"
 	]
 }
