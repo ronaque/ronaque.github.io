@@ -1,5 +1,7 @@
 ## Meu Portifólio
 
+![]
+
 Isaque Barbosa, 17 anos
 
 Aluno do curso de jogos digitais.
@@ -12,17 +14,10 @@ Programador.
 - **Weather Gangs**: [https://ronaque.github.io/WeatherGangs/]
 
 ### Contato
-- Facebook: [https://www.facebook.com/isaque.barbosa.395]
+- Facebook: [https://www.facebook.com/isaque.barbosa.395](url)
 - E-mail: isaque.bm9@gmail.com
-- Github: [https://github.com/ronaque]
+- Github: [https://github.com/ronaque](url)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
