@@ -7,14 +7,14 @@ Programador.
 
 
 ## Jogos
-- Soul Archer: [https://ronaque.github.io/SoulArcher/]
-- The Wizard: [https://ronaque.github.io/The%20Wizard/]
-- Weather Gangs: [https://ronaque.github.io/WeatherGangs/]
+- **Soul Archer**: [https://ronaque.github.io/SoulArcher/]
+- **The Wizard**: [https://ronaque.github.io/The%20Wizard/]
+- **Weather Gangs**: [https://ronaque.github.io/WeatherGangs/]
 
 ### Contato
-1. Facebook: [https://www.facebook.com/isaque.barbosa.395]
-2. E-mail: isaque.bm9@gmail.com
-3. Github: [https://github.com/ronaque]
+- Facebook: [https://www.facebook.com/isaque.barbosa.395]
+- E-mail: isaque.bm9@gmail.com
+- Github: [https://github.com/ronaque]
 
 - Bulleted
 - List
