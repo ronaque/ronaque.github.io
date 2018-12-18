@@ -10,10 +10,13 @@ Programador.
 
 ## Jogos
 - **Soul Archer**: [https://ronaque.github.io/SoulArcher/](url)
-![Soul Archer](https://scontent.frec10-1.fna.fbcdn.net/v/t1.0-9/48366203_1903235219774796_5056144713279602688_o.jpg?_nc_cat=111&_nc_ht=scontent.frec10-1.fna&oh=7fe363837c78ce03b90ab826704182ab&oe=5C9C6812)
+![Soul Archer](https://i.pinimg.com/originals/97/be/02/97be0223779aba3207c6da7055ee555a.png)
 
 - **The Wizard**: [https://ronaque.github.io/The%20Wizard/](url)
+![The Wizard](https://i.pinimg.com/originals/2d/ff/99/2dff996b8a83544ac67035d94b1a549d.png)
+
 - **Weather Gangs**: [https://ronaque.github.io/WeatherGangs/](url)
+![Weather Gangs](https://i.pinimg.com/originals/d6/2e/96/d62e96d973b8416d78694bff21db21a7.png)
 
 ### Contato
 - Facebook: [https://www.facebook.com/isaque.barbosa.395](url)
