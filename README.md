@@ -5,11 +5,12 @@ Isaque Barbosa, 17 anos
 Aluno do curso de jogos digitais.
 Programador.
 
-##Jogos
 
-##Artes
+## Jogos
 
-###Contato
+## Artes
+
+### Contato
 
 
 ### Markdown
