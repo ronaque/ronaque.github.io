@@ -20,7 +20,7 @@ Programador.
 [![texto](https://i.pinimg.com/originals/2d/ff/99/2dff996b8a83544ac67035d94b1a549d.png)](https://ronaque.github.io/The%20Wizard/)
 
 - [**Weather Gangs**:](https://ronaque.github.io/WeatherGangs/)
-<a href="https://ronaque.github.io/WeatherGangs/" target=""> ![imagem](https://i.pinimg.com/originals/d6/2e/96/d62e96d973b8416d78694bff21db21a7.png)</a>
+<a href="https://ronaque.github.io/WeatherGangs/" target="_blank"> ![imagem](https://i.pinimg.com/originals/d6/2e/96/d62e96d973b8416d78694bff21db21a7.png)</a>
 
 
 ## Contato
