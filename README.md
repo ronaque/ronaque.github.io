@@ -19,7 +19,7 @@ Programador.
 ![https://ronaque.github.io/WeatherGangs/](https://i.pinimg.com/originals/d6/2e/96/d62e96d973b8416d78694bff21db21a7.png)
 
 ### Contato
-- Facebook: [Facebook](https://www.facebook.com/isaque.barbosa.395)
+- [Facebook:](https://www.facebook.com/isaque.barbosa.395)
 - E-mail: isaque.bm9@gmail.com
-- Github: [Github](https://github.com/ronaque)
+- [Github:](https://github.com/ronaque)
 
