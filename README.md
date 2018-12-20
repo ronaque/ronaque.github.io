@@ -5,7 +5,10 @@
 Isaque Barbosa, 17 anos
 
 Aluno do curso de jogos digitais.
+
 Programador.
+
+
 
 # Meu portifólio
 
