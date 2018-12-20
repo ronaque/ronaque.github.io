@@ -24,6 +24,6 @@ Programador.
 
 
 ## Contato
-- <a href="facebook">[](https://www.facebook.com/isaque.barbosa.395) </a>
-- <a href="Github"> [](https://github.com/ronaque) </a>
+- <a href="https://www.facebook.com/isaque.barbosa.395"> Facebook </a>
+- <a href="https://github.com/ronaque"> Github </a>
 - E-mail: isaque.bm9@gmail.com
