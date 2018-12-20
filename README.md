@@ -17,7 +17,11 @@ Programador.
 ![https://ronaque.github.io/The%20Wizard/](https://i.pinimg.com/originals/2d/ff/99/2dff996b8a83544ac67035d94b1a549d.png)
 
 - [**Weather Gangs**:](https://ronaque.github.io/WeatherGangs/)
-![https://ronaque.github.io/WeatherGangs/](https://i.pinimg.com/originals/d6/2e/96/d62e96d973b8416d78694bff21db21a7.png)
+[![imagem](https://i.pinimg.com/originals/d6/2e/96/d62e96d973b8416d78694bff21db21a7.png)](https://ronaque.github.io/WeatherGangs/)
+
+
+
+
 
 ## Contato
 - [Facebook](https://www.facebook.com/isaque.barbosa.395)
