@@ -24,6 +24,15 @@ Programador.
 
 ![Premio](https://i.pinimg.com/originals/00/6d/72/006d72ff6296218c19949d684ddd6722.png)
 
+## Artes
+
+![](https://i.pinimg.com/originals/40/77/39/4077390b29f4934a7111c74ace41b693.png)
+
+![](https://i.pinimg.com/originals/c5/48/9b/c5489bd019563e883f06eb08fa39c3e3.png)
+
+![](https://i.pinimg.com/originals/41/a0/a1/41a0a1b9a1c4f646611d55a4efa200ca.png)
+
+![](https://i.pinimg.com/originals/f0/b9/55/f0b955102537e900ba986e61cc1c87ee.png)
 
 ## Contato
 - <a href="https://www.facebook.com/isaque.barbosa.395" target="_blank"> Facebook </a>
