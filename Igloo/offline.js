@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1546531963,
+	"version": 1546533460,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -22,10 +22,12 @@
 		"images/playercontroller-sheet0.png",
 		"images/ichaosecundario-sheet0.png",
 		"images/ipenguim-sheet0.png",
+		"images/ipenguim-sheet1.png",
 		"images/ibackground-sheet0.png",
 		"images/icamera-sheet0.png",
 		"images/sbullet-sheet0.png",
 		"images/ifade-sheet0.png",
+		"images/tiledbackground.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
