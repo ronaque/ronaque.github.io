@@ -43,3 +43,5 @@ Jogo Destinado para a oficina de contruct realizado no IFRN - Parnamirim
 - <a href="https://www.facebook.com/isaque.barbosa.395" target="_blank"> Facebook </a>
 - <a href="https://github.com/ronaque" target="_blank"> Github </a>
 - E-mail: isaque.bm9@gmail.com
+- Telegram: @ovelhinha
+- Número para contato: (84)98602-7452
