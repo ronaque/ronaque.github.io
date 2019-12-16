@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1576521594,
+	"version": 1576529541,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -149,6 +149,8 @@
 		"images/swasd-sheet0.png",
 		"images/swasd-sheet1.png",
 		"images/sprite4-sheet0.png",
+		"images/sselecionadorgpausa-sheet0.png",
+		"images/sselecionadorppausa-sheet0.png",
 		"media/andando lab.ogg",
 		"media/andando no gelo.ogg",
 		"media/botÃo on e off.ogg",
