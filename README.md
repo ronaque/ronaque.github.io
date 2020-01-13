@@ -16,6 +16,7 @@ Programador.
 ![Premio](https://i.pinimg.com/originals/d5/44/f1/d544f10155e75b5de19bd44315f397b5.png)
 
 Jogo destinado para a matéria de oficina
+
 Programação: Isaque Barbosa
 Arte: Pedro H. Lopes
 
@@ -23,6 +24,7 @@ Arte: Pedro H. Lopes
 <a href="https://ronaque.github.io/The%20Wizard/" target="_blank">![texto](https://i.pinimg.com/originals/2d/ff/99/2dff996b8a83544ac67035d94b1a549d.png) </a>
 
 Jogo destinado para a matéria de oficina
+
 Programação: Isaque Barbosa
 Arte: Pedro H. Lopes e Isaque Barbosa
 
@@ -31,6 +33,7 @@ Arte: Pedro H. Lopes e Isaque Barbosa
 ![Premio](https://i.pinimg.com/originals/00/6d/72/006d72ff6296218c19949d684ddd6722.png)
 
 Jogo destinado para a matéria de oficina
+
 Programação: Isaque Barbosa
 Arte: Isaque Barbosa
 
@@ -43,6 +46,7 @@ Jogo Destinado para a oficina de contruct realizado no IFRN/Parnamirim
 <a href="https://ronaque.github.io/The%20Last%20Human/" target="_blank"> ![imagem](https://i.pinimg.com/originals/85/78/d4/8578d4a1ae74bfead4981bc5e0a91073.png)</a>
 
 Jogo realizado para a apresentação de TCC,
+
 Programação: Isaque Barbosa
 Arte: Pedro H. Lopes
 Game Design: Gabriel Galvão e Lemuel Marques
