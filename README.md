@@ -36,6 +36,8 @@ Jogo Destinado para a oficina de contruct realizado no IFRN - Parnamirim
 - [**The Last Human**](https://ronaque.github.io/The%20Last%20Human/)
 <a href="https://ronaque.github.io/The%20Last%20Human/" target="_blank"> ![imagem](https://i.pinimg.com/originals/85/78/d4/8578d4a1ae74bfead4981bc5e0a91073.png)</a>
 
+Jogo realizado para o nosso TCC, programação minha, artes de Pedro H. Lopes e game design de Gabriel Galvão e Lemuel Marques
+
 ## Artes
 
 ![](https://i.pinimg.com/originals/40/77/39/4077390b29f4934a7111c74ace41b693.png)
