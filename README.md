@@ -18,6 +18,7 @@ Programador.
 Jogo destinado para a matéria de oficina
 
 Programação: Isaque Barbosa
+
 Arte: Pedro H. Lopes
 
 - [**The Wizard**:](https://ronaque.github.io/The%20Wizard/)
@@ -26,6 +27,7 @@ Arte: Pedro H. Lopes
 Jogo destinado para a matéria de oficina
 
 Programação: Isaque Barbosa
+
 Arte: Pedro H. Lopes e Isaque Barbosa
 
 - [**Weather Gangs**:](https://ronaque.github.io/WeatherGangs/)
@@ -35,6 +37,7 @@ Arte: Pedro H. Lopes e Isaque Barbosa
 Jogo destinado para a matéria de oficina
 
 Programação: Isaque Barbosa
+
 Arte: Isaque Barbosa
 
 
@@ -48,7 +51,9 @@ Jogo Destinado para a oficina de contruct realizado no IFRN/Parnamirim
 Jogo realizado para a apresentação de TCC,
 
 Programação: Isaque Barbosa
+
 Arte: Pedro H. Lopes
+
 Game Design: Gabriel Galvão e Lemuel Marques
 
 ## Contato
