@@ -1,9 +1,11 @@
 # Sobre Mim
 
 
-Isaque Barbosa Martins, 18 anos.
+Isaque Barbosa Martins, 19 anos.
 
 Técnico em jogos digitais pelo IFRN.
+
+Bacharel em Tecnologia da Informação pela UFRN - 1º semestre
 
 Programador.
 
