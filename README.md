@@ -61,4 +61,3 @@ Game Design: Gabriel Galvão e Lemuel Marques
 ## Contato
 - <a href="https://github.com/ronaque" target="_blank"> Github </a>
 - E-mail: isaque.bm9@gmail.com
-- Número para contato: (84)98602-7452
