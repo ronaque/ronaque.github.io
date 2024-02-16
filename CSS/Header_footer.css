@@ -1,0 +1,42 @@
+/*Header*/
+header {
+    /* background: url("../Images/bojack.jpg"); */
+    background-color: var(--Cinza-Header);
+    border-bottom: 4px solid rgba(0, 0, 0, 0.8);
+    height: 260px;
+    position: relative;
+}
+
+.header__background {
+    width: 90%;
+    margin: 0 auto;
+    padding: 10px 10px;
+}
+
+
+/*Footer*/
+footer {
+    background: var(--Cinza-Header);
+    border-top: 4px solid rgba(0, 0, 0, 0.8);
+    height: 200px;
+}
+
+.lista__footer {
+    padding: 50px 0;
+    text-align: center;
+}
+
+.lista__footer li {
+    display: inline-block;
+    padding: 20px 20px;
+}
+
+.lista__footer img {
+    transition: 0.5s;
+    width: 50px;
+}
+
+.lista__footer li img:hover {
+    /* -webkit-filter: drop-shadow(5px 5px 5px #222); */
+    filter: drop-shadow(0px 0px 0.5em var(--Azul-escuro-linguagens));
+}

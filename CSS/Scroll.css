@@ -1,0 +1,36 @@
+/*Scroll*/
+.scroll{
+    display: flex;
+    left: 5px;
+    position: fixed;
+    scroll-behavior: smooth;
+    top: calc(45% - 19px);
+}
+
+
+/* Scroll Lista */
+.scroll__item{
+    border: 1px solid var(--Cinza-nav); 
+    border-radius: 5px;
+    margin: 5px 0;
+    padding: 0.5em 0.5em; 
+    pointer-events: none; 
+    text-align: center; 
+}
+
+.scroll__item:hover, .scroll__item *:hover{
+    border-color: var(--Azul-nav);
+    color: var(--Azul-nav);
+    transition: 0.5s;
+}
+
+.scroll__item:active, .scroll__item *:active{
+    border-color: var(--Azul-nav);
+    color: var(--Azul-nav); 
+}
+
+.scroll a{
+    color: var(--Cinza-nav);
+    pointer-events: auto;
+    text-decoration: none;
+}

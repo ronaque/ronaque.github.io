@@ -1,0 +1,39 @@
+/* Jogos */
+
+.jogos__itens {
+    display: flex;
+    flex-direction: column;
+    margin: 0 1em;
+    padding: 1em;
+    width: 20em;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.jogos__itens img {
+    border-radius: 10px;
+    box-shadow: 0 0 10px 6px rgba(0, 0, 0, 0.8);
+    filter: brightness(30%);
+    margin: 20px 0;
+    transition: 1s;
+    width: 100%;
+}
+
+
+.jogos__itens img:hover {
+    box-shadow: 0 0 5px 3px rgba(0, 0, 0, 0.8);
+    filter: brightness(100%);
+}
+
+.jogos__nome {
+    font-size: 1.3em;
+    padding-top: 1em;
+    text-align: center;
+}
+
+.jogos__descricao {
+    /* border-bottom: 2px solid rgba(0, 0, 0, 0.8); */
+    font-size: 1.3em;
+    padding-bottom: 1em;
+    text-align: center;
+}

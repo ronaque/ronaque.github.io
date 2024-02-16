@@ -1,0 +1,36 @@
+/*Root*/
+:root{
+    --Cinza-bg: #1d1d1d;
+    --Cinza-titulos: #4f4f4f;
+    --Cinza-nav: #AAB7B8;
+    --Azul-nav: #1B66CD;
+    --Azul-escuro-linguagens: #34495E;
+    --Branco-leve: #E5E7E9;
+    --Cinza-Header: #0e0f0fc4;
+}
+
+
+/* html */
+html {
+    scroll-behavior: smooth;
+    /* position: relative; */
+}
+
+
+/* body */
+body{
+    background-color: var(--Cinza-bg);
+    font-family: 'Lato', sans-serif;
+    position: relative;
+}
+
+body p{
+    color: var(--Branco-leve);
+}
+
+
+/* Trabalhos */
+.trabalhos{
+    margin: 0 auto;
+    width: 60%;
+}

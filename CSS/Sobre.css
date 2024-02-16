@@ -1,0 +1,60 @@
+/*Sobre*/
+.sobre {
+    margin: 0 auto;
+    width: 60%;
+}
+
+.sobre__textos__p p {
+    font-size: 1.2em;
+    padding: 8px 0;
+}
+
+/*Sobre textos */
+.sobre__textos {
+    border-bottom: 5px solid rgba(0, 0, 0, 0.8);
+    padding-bottom: 0.5em;
+}
+
+.sobre__textos__p {
+    font-size: 1em;
+    padding: 20px 0 0 0;
+}
+
+.sobre__eu {
+    border: 4px solid rgba(0, 0, 0, 0.8);
+    margin-block: -10px;
+    position: absolute;
+    top: 150px;
+}
+
+
+/* Sobre Imagens */
+.sobre__imagens {
+    border-bottom: 4px solid rgba(0, 0, 0, 0.8);
+    text-align: center;
+}
+
+.sobre__imagens li {
+    display: inline-block;
+}
+
+.sobre__imagens li img {
+    padding: 30px 10px;
+    transition: 0.5s;
+    width: 70px;
+}
+
+.sobre__imagens li img:hover {
+    /* -webkit-filter: drop-shadow(5px 5px 5px #222); */
+    filter: drop-shadow(0px 0px 0.5em var(--Azul-escuro-linguagens));
+}
+
+#java {
+    padding: 30px 10px;
+    transition: 0.5s;
+    width: 85px;
+}
+
+#HTML-CSS-JS-Mark {
+    width: 150px;
+}
