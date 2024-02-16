@@ -1,5 +1,15 @@
 /* Projetos */
-.projetos h1{
-    padding-bottom: 20px;
+.projetos__itens {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 50px;
 }
 
+.projetos__itens_h2 {
+    color: aliceblue;
+}
+
+#mobifin {
+    width: 100%;
+}
